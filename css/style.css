@@ -12,7 +12,7 @@ table,td{
   font-size: 13px;
 }
 th{
-  border: 1px solid black;
+  border: 1px solid white;
   border-collapse: collapse;
   font-family: verdana;
   font-style: normal;
@@ -22,7 +22,7 @@ th{
   color: white;
 }
 td{
-  border: 1px solid black;
+  border: 1px solid white;
   border-collapse: collapse;
   font-family: verdana;
   font-style: normal;
